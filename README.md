@@ -25,9 +25,9 @@ Self-taught | Software Engineer | AI Enthusiast
 | | Project                          | Description |
 |---|----------------------------------|---|
 | 🤖 | **[BSR-RV](https://bsr-rv.com)** | Virtual Reality ecosystem for the education sector (Unity/C#/.NET). |
-| 🏠 | **[Domótica](https://dramos.dev/projects/home-automation)**                 | Custom smart home solutions with Shelly and automation services. |
+| 🏠 | **[Home Automation](https://dramos.dev/projects/home-automation)**                 | Custom smart home solutions with Shelly and automation services. |
 | 🎸 | **[Music Theory Tools](https://dramos.dev/projects/music)**       | Visualizers and tools for guitar fretboards, chords, and the circle of fifths. |
-| ♿ | **[Wheelchair Basketball](https://dramos.dev/projects/wheelchair)** | Visor y juego interactivo de baloncesto en silla de ruedas. |
+| ♿ | **[Wheelchair Basketball](https://dramos.dev/projects/wheelchair)** | Interactive wheelchair basketball viewer and game. |
 
 ### Tech DNA
 
