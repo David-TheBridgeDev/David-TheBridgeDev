@@ -22,12 +22,14 @@ Self-taught | Software Engineer | AI Enthusiast
 
 ### What I'm Building
 
-| | Project                          | Description |
-|---|----------------------------------|---|
-| 🤖 | **[BSR-RV](https://bsr-rv.com)** | Virtual Reality ecosystem for the education sector (Unity/C#/.NET). |
-| 🏠 | **[Home Automation](https://dramos.dev/projects/home-automation)**                 | Custom smart home solutions with Shelly and automation services. |
-| 🎸 | **[Music Theory Tools](https://dramos.dev/projects/music)**       | Visualizers and tools for guitar fretboards, chords, and the circle of fifths. |
-| ♿ | **[Wheelchair Basketball](https://dramos.dev/projects/wheelchair)** | Interactive wheelchair basketball viewer and game. |
+| | Project                                                             | Description                                                                                                                                                                                   |
+|---|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📍 | **[Trackingfy](https://trackingfy.web.app)**                        | Trackingfy is a local-first PWA designed to allow users to track their physical activities (route, time, distance, speed, and elevation gain) with a focus on privacy and offline capability. |
+| 🤖 | **[Versiona](https://github.com/David-TheBridgeDev/Versiona)**      | SaaS platform for musicians that enables track separation (stems) from audio files and the extraction of musical metadata (BPM, Key, Chords).                                                 |
+| ✨ | **[Sistemica](https://sistemica.ai)**                               | Deterministic Automation for Elite Companies.                                                                                                                                                 |
+| 🎸 | **[Music Theory Tools](https://dramos.dev/projects/music)**         | Visualizers and tools for guitar fretboards, chords, and the circle of fifths.                                                                                                                |
+| ♿ | **[Wheelchair Basketball](https://dramos.dev/projects/wheelchair)** | Interactive wheelchair basketball viewer and game.                                                                                                                                            |
+| 🏫 | **[BSR-RV](https://bsr-rv.com)**                                    | Virtual Reality ecosystem for the education sector (Unity 3D).                                                                                                                                |
 
 ### Tech DNA
 
@@ -45,7 +47,7 @@ Terminal      LazyVim · Zellij · Nix
 
 <div align="center">
 
-**SYSTEM_READY | PORTFOLIO_OS v2.4.0**
+**SYSTEM_READY | PORTFOLIO v2.4.0**
 
 *Concepts over code. Foundations over frameworks.*
 <br/>
