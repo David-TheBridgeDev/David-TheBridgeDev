@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=David+Ramos+Perdomo;" alt="Typing SVG" />
 
-**AI Solutions Architect & Infrastructure Bridge | Modernizing Legacy Systems for the AI Era | TheBridgeDev**
+**AI Solutions Architect & Infrastructure Bridge | Modernizing Legacy Systems for the AI Era**
 
 Self-taught | Software Engineer | AI Enthusiast
 
@@ -34,8 +34,8 @@ Self-taught | Software Engineer | AI Enthusiast
 ### Tech DNA
 
 ```
-Backend       Java (JDK 8-21) · Jakarta EE · Spring Boot · Maven · Go
-Frontend      Angular (v12-20) · TypeScript · Vaadin · Flutter · React Native
+Backend       Java (JDK 8-21) · Jakarta · Spring · Go . Python
+Frontend      Angular (v12-21) · TypeScript · Vaadin · Flutter · React Native
 Mobility      Capacitor · Electron · Unity 3D
 Data          PostgreSQL · Oracle · MongoDB · MS SQL Server · MySQL
 AI Tooling    Gemini CLI · Claude Code · MCP Servers · Open Code · Cursor
