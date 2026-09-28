@@ -6,7 +6,7 @@
 
 Self-taught | Software Engineer | AI Enthusiast
 
-<a href="https://www.linkedin.com/in/david-thebridgedev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/david-ramos-perdomo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dramos.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Website"></a>
 
 </div>
@@ -58,7 +58,7 @@ Terminal      LazyVim · Zellij · Nix
 
 <br/>
 
-<a href="https://www.linkedin.com/in/david-thebridgedev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/david-ramos-perdomo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dramos.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Website"></a>
 
 </div>
